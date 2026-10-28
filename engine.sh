@@ -64,3 +64,5 @@ echo "$TS | $AGENT | $FILE" >> "$LOGS/agent_activity.log"
 
 echo ""
 echo "✅ Saved to: $OUTPUT/last_output.txt"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=engine.sh
